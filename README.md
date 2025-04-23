@@ -1,5 +1,7 @@
-## Olá, mundo! 👋
-Em breve...
+## 👽 Olá, mundo! 👋
+> Bem vindo ao repositório!
+Em breve, muitos projetos interessantes por aqui...
+
 <!--
 **Eliteia/eliteia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
