@@ -3,6 +3,8 @@
 
 <img width="700px" height="350px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdjYjRqa2cwcjZ3NmRhaGo5aTIxOWt6OW1semhhcDBmMWI0dWdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 
+> GIF via [GIPHY](https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh)
+
 <div align="center">Em breve, muitos projetos interessantes por aqui...</div>
 
 
